@@ -1,0 +1,104 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+#127.0.0.1	ubuntu
+172.16.182.169 	ubuntu
+
+############################
+# SOTHEBY'S SERVERS
+############################
+# sotheby's build server
+10.8.25.228 tcbb01.ny.sothebys.com
+
+# sotheby's dev solr
+10.8.24.106 solrdev01.ny.sothebys.com
+
+# sothebys dev
+10.8.25.224 athdev01.ny.sothebys.com
+10.8.25.225 pbldev01.ny.sothebys.com
+10.8.25.226 dspdev01.ny.sothebys.com
+
+# sothebys dev api
+#10.8.25.227 tcdev01.ny.sothebys.com
+10.8.25.235 tcdev01.ny.sothebys.com
+
+# build server
+10.8.25.242 sonar01.ny.sothebys.com
+
+# sotheby's stage solr
+10.8.24.108 solrstg01.ny.sothebys.com
+
+# sothebys stage
+10.8.25.221 athstg01.ny.sothebys.com
+10.8.25.222 pblstg01.ny.sothebys.com
+10.8.25.223 dspstg01.ny.sothebys.com
+
+# sothebys stage api
+10.8.25.227 tcstg01.ny.sothebys.com
+
+# sothebys stage 2
+10.8.25.135 dspstg02.ny.sothebys.com
+10.8.25.134 athstg02.ny.sothebys.com
+10.8.25.230 pblstg02.ny.sothebys.com
+
+# sothebys prod
+10.8.24.51 solrprd1.ny.sothebys.com
+
+# auth
+10.8.24.21  athprd1.ny.sothebys.com
+# mirror
+10.8.2.183 athmir1.ny.sothebys.com
+10.8.2.184 pblmir1.ny.sothebys.com
+
+#10.8.2.184            www.sothebys.com       #pblmir1
+
+# prod pub
+10.8.24.31 pblprd1.ny.sothebys.com
+10.8.24.32 pblprd2.ny.sothebys.com
+10.8.24.33 pblprd3.ny.sothebys.com
+
+# sothebys prod dispatcher
+192.168.1.61 dspprd1.ny.sothebys.com
+
+# api
+10.8.24.41 tcprd01.ny.sothebys.com
+
+##################################
+# DRUPAL TRAINING
+##################################
+# php (drupal training)
+127.0.0.1        2trees
+
+
+##################################
+# MSG INSIDER
+##################################
+
+127.0.0.1	dev-insider.msgnetwork.com
+#127.0.0.1	app-insider.msgnetwork.com
+
+
+Hi all, 
+
+First of all I have to thank you to give the opportunity to work in this team.   I am really exicted to be here. 
+
+Introdocution about southaby application. 
+
+1) Setup cq,  installed necessory patches and services packes, 
+2) checked out code and build and deployed into aem serveer. 
+3) Deploying necessory content packages. 
+
+Eclipse setup and 
+
+
+YINN  --  stocks.  --  1/2 amount.. 10000 
+Tesla --  17 - 10 calls - 220 230 240 call.   150000 tesla  10 calls  -- 2000 7 calls 
+
+ -
